@@ -1,4 +1,4 @@
-[
+{"students":[
   {
     "name": "hari",
     "dob": "25-12-1992",
@@ -21,3 +21,5 @@
     "gender": "female"
   }
 ]
+
+}
