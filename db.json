@@ -1,0 +1,23 @@
+[
+  {
+    "name": "hari",
+    "dob": "25-12-1992",
+    "class": "XII",
+    "division": "A",
+    "gender": "male"
+  },
+  {
+    "name": "manu",
+    "dobk": "25-12-1992",
+    "class": "X",
+    "division": "B",
+    "gender": "male"
+  },
+  {
+    "name": "karthika",
+    "dob": "25-12-1992",
+    "class": "V",
+    "division": "c",
+    "gender": "female"
+  }
+]
